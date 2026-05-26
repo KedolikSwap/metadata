@@ -1,7 +1,7 @@
 {
-  "name": "Kedolik Standard Liquidity",
-  "symbol": "KLP",
-  "description": "Liquidity Provider token for Kedolik AMM pools. Represents ownership in Kedolik liquidity pools and earns trading fees.",
+  "name": "KedoX LP",
+  "symbol": "KDLX",
+  "description": "Liquidity Provider (LP) token for Kedolik AMM pools, representing a user’s share of pool liquidity and enabling the accrual of trading fee rewards.",
   "image": "https://raw.githubusercontent.com/KedolikSwap/metadata/refs/heads/main/LP-Tokens.png",
   "external_url": "https://kedolikswap.com",
   "attributes": [
