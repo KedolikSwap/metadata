@@ -7,7 +7,7 @@
   "attributes": [
     {
       "trait_type": "AMM",
-      "value": "Kedolik"
+      "value": "KedoX LP"
     },
     {
       "trait_type": "Protocol",
@@ -15,7 +15,7 @@
     },
     {
       "trait_type": "Category",
-      "value": "Kedolik LP Tokens"
+      "value": "KedoX LP Tokens"
     }
   ],
   "properties": {
