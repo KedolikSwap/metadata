@@ -7,7 +7,7 @@
   "logoURI": "https://raw.githubusercontent.com/KedolikSwap/metadata/refs/heads/main/LP-Tokens.png",
   "external_url": "https://kedolikswap.com"
   "tags": ["lp-token"]
-}
+},
 {
   "name": "KedoLX SOL-USDC",
   "symbol": "KDLX",
@@ -17,4 +17,14 @@
   "logoURI": "https://raw.githubusercontent.com/KedolikSwap/metadata/refs/heads/main/LP-Tokens.png",
   "external_url": "https://kedolikswap.com"
   "tags": ["lp-token"]
-}
+},
+{
+  "name": "KedoLX USDC-USDT",
+  "symbol": "KDLX",
+  "description": "KedolikSwap LP token for the USDC-USDT pool.",
+  "address": "6LPmEY5n3dEUr18pc5HVB8HduCQNtVUipCVEuYt9yHHj",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/KedolikSwap/metadata/refs/heads/main/LP-Tokens.png",
+  "external_url": "https://kedolikswap.com"
+  "tags": ["lp-token"]
+},
