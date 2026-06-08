@@ -1,30 +1,7 @@
 {
-  "name": "KedoX LP",
+  "mint": "FNkyNA5pc3dawQsQKw5puyKPgKHB8en4ABcuoyo5ghoF",
+  "name": "KedoLX SOL-KEDOL",
   "symbol": "KDLX",
-  "description": "Liquidity Provider (LP) token for Kedolik AMM pools, representing a user’s share of pool liquidity and enabling the accrual of trading fee rewards.",
-  "image": "https://raw.githubusercontent.com/KedolikSwap/metadata/refs/heads/main/LP-Tokens.png",
-  "external_url": "https://kedolikswap.com",
-  "attributes": [
-    {
-      "trait_type": "AMM",
-      "value": "KedoX LP"
-    },
-    {
-      "trait_type": "Protocol",
-      "value": "Kedolik AMM"
-    },
-    {
-      "trait_type": "Category",
-      "value": "KedoX LP Tokens"
-    }
-  ],
-  "properties": {
-    "files": [
-      {
-        "uri": "https://raw.githubusercontent.com/KedolikSwap/metadata/refs/heads/main/LP-Tokens.png",
-        "type": "image/png"
-      }
-    ],
-    "category": "lp-token"
-  }
+  "description": "KedolikSwap LP token for the SOL-KEDOL pool.",
+  "image": "https://raw.githubusercontent.com/KedolikSwap/metadata/refs/heads/main/LP-Tokens.png"
 }
