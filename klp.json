@@ -1,30 +1,22 @@
 {
-  "name": "KedoLX SOL-KEDOL",
-  "symbol": "KDLX",
-  "description": "KedolikSwap LP token for the SOL-KEDOL pool.",
-  "address": "FNkyNA5pc3dawQsQKw5puyKPgKHB8en4ABcuoyo5ghoF",
-  "decimals": 9,
-  "logoURI": "https://raw.githubusercontent.com/KedolikSwap/metadata/refs/heads/main/LP-Tokens.png",
-  "external_url": "https://kedolikswap.com"
-  "tags": ["lp-token"]
-},
-{
-  "name": "KedoLX SOL-USDC",
-  "symbol": "KDLX",
-  "description": "KedolikSwap LP token for the SOL-USDC pool.",
-  "address": "4af7GRWYW4PezainFKmQWcwrPZxE1WtN5eHKecL5o8ky",
-  "decimals": 9,
-  "logoURI": "https://raw.githubusercontent.com/KedolikSwap/metadata/refs/heads/main/LP-Tokens.png",
-  "external_url": "https://kedolikswap.com"
-  "tags": ["lp-token"]
-},
-{
-  "name": "KedoLX USDC-USDT",
-  "symbol": "KDLX",
-  "description": "KedolikSwap LP token for the USDC-USDT pool.",
-  "address": "6LPmEY5n3dEUr18pc5HVB8HduCQNtVUipCVEuYt9yHHj",
-  "decimals": 9,
-  "logoURI": "https://raw.githubusercontent.com/KedolikSwap/metadata/refs/heads/main/LP-Tokens.png",
-  "external_url": "https://kedolikswap.com"
-  "tags": ["lp-token"]
-},
+"name": "KedoLX (WSOL-KEDOL) LP Token",
+"symbol": "KDLX",
+"description": "KedolikSwap LP token for the WSOL-KEDOL pool.",
+"external_url": "https://www.kedolikswap.com/",
+"poolInfo":{"type":"Standard",
+"programId": "Hr4iqmE5wiStSiHGgzgUSryNG4hyqkSHUT7PDyAsE6Li"},
+"lp token address": {"FNkyNA5pc3dawQsQKw5puyKPgKHB8en4ABcuoyo5ghoF",
+"logoURI": "https://raw.githubusercontent.com/KedolikSwap/metadata/refs/heads/main/LP-Tokens.png",
+"decimals": 9},
+"mintA":{"chainId":101,"address":"So11111111111111111111111111111111111111112",
+"programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+"symbol": "WSOL",
+"name":" Wrapped SOL",
+"decimals": 9},
+"mintB":{"chainId":101,"address":"FUHwFRWE52FJXC4KoySzy9h6nNmRrppUg5unS4mKEDQN",
+"programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+"symbol": "KEDOL",
+"name": "Kedolik",
+"decimals": 9}
+}
+
