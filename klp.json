@@ -1,23 +1,26 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-09-06T00:00:00.000Z",
   "lp-tokens": [
-
 {
   "name": "KedoX LP WSOL-KEDOL",
   "symbol": "KDLX",
   "mint": "FNkyNA5pc3dawQsQKw5puyKPgKHB8en4ABcuoyo5ghoF",
+  "decimals": 9,
   "description": "KedolikSwap LP token for the WSOL-KEDOL pool.",
-  "image": "https://raw.githubusercontent.com/KedolikSwap/metadata/refs/heads/main/LP-Tokens.png",
+  "image": "https://raw.githubusercontent.com/KedolikSwap/metadata/main/LP-Tokens.png",
   "external_url": "https://kedolikswap.com",
   "attributes": [
+    {
+      "trait_type": "Pair",
+      "value": "WSOL-KEDOL"
+    },
     {
       "trait_type": "AMM",
       "value": "KedoX LP WSOL-KEDOL"
     },
     {
       "trait_type": "Protocol",
-      "value": "Kedolik AMM"
+      "value": "KedolikSwap"
     },
     {
       "trait_type": "Category",
@@ -27,7 +30,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/KedolikSwap/metadata/refs/heads/main/LP-Tokens.png",
+        "uri": "https://raw.githubusercontent.com/KedolikSwap/metadata/main/LP-Tokens.png",
         "type": "image/png"
       }
     ],
@@ -38,17 +41,22 @@
   "name": "KedoX LP SOL-USDC",
   "symbol": "KDLX",
   "mint": "4af7GRWYW4PezainFKmQWcwrPZxE1WtN5eHKecL5o8ky",
+  "decimals": 9,
   "description": "KedolikSwap LP token for the SOL-USDC pool.",
-  "image": "https://raw.githubusercontent.com/KedolikSwap/metadata/refs/heads/main/LP-Tokens.png",
+  "image": "https://raw.githubusercontent.com/KedolikSwap/metadata/main/LP-Tokens.png",
   "external_url": "https://kedolikswap.com",
   "attributes": [
+    {
+      "trait_type": "Pair",
+      "value": "SOL-USDC"
+    },
     {
       "trait_type": "AMM",
       "value": "KedoX LP SOL-USDC"
     },
     {
       "trait_type": "Protocol",
-      "value": "Kedolik AMM"
+      "value": "KedolikSwap"
     },
     {
       "trait_type": "Category",
@@ -58,7 +66,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/KedolikSwap/metadata/refs/heads/main/LP-Tokens.png",
+        "uri": "https://raw.githubusercontent.com/KedolikSwap/metadata/main/LP-Tokens.png",
         "type": "image/png"
       }
     ],
@@ -69,17 +77,22 @@
   "name": "KedoX LP USDC-USDT",
   "symbol": "KDLX",
   "mint": "6LPmEY5n3dEUr18pc5HVB8HduCQNtVUipCVEuYt9yHHj",
+  "decimals": 9,
   "description": "KedolikSwap LP token for the USDC-USDT pool.",
-  "image": "https://raw.githubusercontent.com/KedolikSwap/metadata/refs/heads/main/LP-Tokens.png",
+  "image": "https://raw.githubusercontent.com/KedolikSwap/metadata/main/LP-Tokens.png",
   "external_url": "https://kedolikswap.com",
   "attributes": [
+    {
+      "trait_type": "Pair",
+      "value": "USDC-USDT"
+    },
     {
       "trait_type": "AMM",
       "value": "KedoX LP USDC-USDT"
     },
     {
       "trait_type": "Protocol",
-      "value": "Kedolik AMM"
+      "value": "KedolikSwap"
     },
     {
       "trait_type": "Category",
@@ -89,7 +102,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/KedolikSwap/metadata/refs/heads/main/LP-Tokens.png",
+        "uri": "https://raw.githubusercontent.com/KedolikSwap/metadata/main/LP-Tokens.png",
         "type": "image/png"
       }
     ],
@@ -100,17 +113,22 @@
   "name": "KedoX LP SOL-USDT",
   "symbol": "KDLX",
   "mint": "6yHkgyw9cEsaoQ6i4mFSBgr9Z9NqmqmMTiToQztXvP6P",
+  "decimals": 9,
   "description": "KedolikSwap LP token for the SOL-USDT pool.",
-  "image": "https://raw.githubusercontent.com/KedolikSwap/metadata/refs/heads/main/LP-Tokens.png",
+  "image": "https://raw.githubusercontent.com/KedolikSwap/metadata/main/LP-Tokens.png",
   "external_url": "https://kedolikswap.com",
   "attributes": [
+    {
+      "trait_type": "Pair",
+      "value": "SOL-USDT"
+    },
     {
       "trait_type": "AMM",
       "value": "KedoX LP SOL-USDT"
     },
     {
       "trait_type": "Protocol",
-      "value": "Kedolik AMM"
+      "value": "KedolikSwap"
     },
     {
       "trait_type": "Category",
@@ -120,7 +138,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/KedolikSwap/metadata/refs/heads/main/LP-Tokens.png",
+        "uri": "https://raw.githubusercontent.com/KedolikSwap/metadata/main/LP-Tokens.png",
         "type": "image/png"
       }
     ],
@@ -131,17 +149,22 @@
   "name": "KedoX LP USDT-KEDOL",
   "symbol": "KDLX",
   "mint": "CtD41zHHHTstMCZ89bsnt3WMkWrx4hfX1QN3uTMumAF9",
+  "decimals": 9,
   "description": "KedolikSwap LP token for the USDT-KEDOL pool.",
-  "image": "https://raw.githubusercontent.com/KedolikSwap/metadata/refs/heads/main/LP-Tokens.png",
+  "image": "https://raw.githubusercontent.com/KedolikSwap/metadata/main/LP-Tokens.png",
   "external_url": "https://kedolikswap.com",
   "attributes": [
+    {
+      "trait_type": "Pair",
+      "value": "USDT-KEDOL"
+    },
     {
       "trait_type": "AMM",
       "value": "KedoX LP USDT-KEDOL"
     },
     {
       "trait_type": "Protocol",
-      "value": "Kedolik AMM"
+      "value": "KedolikSwap"
     },
     {
       "trait_type": "Category",
@@ -151,7 +174,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/KedolikSwap/metadata/refs/heads/main/LP-Tokens.png",
+        "uri": "https://raw.githubusercontent.com/KedolikSwap/metadata/main/LP-Tokens.png",
         "type": "image/png"
       }
     ],
@@ -162,17 +185,22 @@
   "name": "KedoX LP USDC-KEDOL",
   "symbol": "KDLX",
   "mint": "9iasc8vstLvbLD5rDFAkvaacDSxEVn4eWnXm6awFyPKH",
+  "decimals": 9,
   "description": "KedolikSwap LP token for the USDC-KEDOL pool.",
-  "image": "https://raw.githubusercontent.com/KedolikSwap/metadata/refs/heads/main/LP-Tokens.png",
+  "image": "https://raw.githubusercontent.com/KedolikSwap/metadata/main/LP-Tokens.png",
   "external_url": "https://kedolikswap.com",
   "attributes": [
+    {
+      "trait_type": "Pair",
+      "value": "USDC-KEDOL"
+    },
     {
       "trait_type": "AMM",
       "value": "KedoX LP USDC-KEDOL"
     },
     {
       "trait_type": "Protocol",
-      "value": "Kedolik AMM"
+      "value": "KedolikSwap"
     },
     {
       "trait_type": "Category",
@@ -182,7 +210,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/KedolikSwap/metadata/refs/heads/main/LP-Tokens.png",
+        "uri": "https://raw.githubusercontent.com/KedolikSwap/metadata/main/LP-Tokens.png",
         "type": "image/png"
       }
     ],
