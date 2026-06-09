@@ -4,7 +4,6 @@
   "description": "KedolikSwap LP token for the WSOL-KEDOL pool.",
   "lp token address": "FNkyNA5pc3dawQsQKw5puyKPgKHB8en4ABcuoyo5ghoF",
   "decimals": 9,
-  "logoURI": "https://raw.githubusercontent.com/KedolikSwap/metadata/refs/heads/main/LP-Tokens.png",
   "external_url": "https://kedolikswap.com",
   "tags": ["lp-token"],
   "attributes": [
