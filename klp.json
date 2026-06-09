@@ -6,7 +6,28 @@
   "decimals": 9,
   "logoURI": "https://raw.githubusercontent.com/KedolikSwap/metadata/refs/heads/main/LP-Tokens.png",
   "external_url": "https://kedolikswap.com",
-  "tags": ["lp-token"]
+  "tags": ["lp-token"],
+  "attributes": [
+    {
+      "trait_type": "AMM",
+      "value": "KedoX LP"
+    },
+    {
+      "trait_type": "Protocol",
+      "value": "KedoX AMM"
+    },
+    {
+      "trait_type": "Category",
+      "value": "KedoX LP"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/KedolikSwap/metadata/refs/heads/main/LP-Tokens.png",
+        "type": "image/png"
+      }
+    ],
 },
 {
   "name": "KedoLX LP SOL-USDC",
