@@ -1,23 +1,21 @@
 {
-  "name": "KedoLX LP WSOL-KEDOL",
+  "name": "KedoX LP",
   "symbol": "KDLX",
-  "description": "KedolikSwap LP token for the WSOL-KEDOL pool.",
-  "lp token address": "FNkyNA5pc3dawQsQKw5puyKPgKHB8en4ABcuoyo5ghoF",
-  "decimals": 9,
+  "description": "Liquidity Provider (LP) token for Kedolik AMM pools, representing a user’s share of pool liquidity and enabling the accrual of trading fee rewards.",
+  "image": "https://raw.githubusercontent.com/KedolikSwap/metadata/refs/heads/main/LP-Tokens.png",
   "external_url": "https://kedolikswap.com",
-  "tags": ["lp-token"],
   "attributes": [
     {
       "trait_type": "AMM",
-      "value": "KedoLX LP WSOL-KEDOL"
+      "value": "KedoX LP"
     },
     {
       "trait_type": "Protocol",
-      "value": "KedoX AMM"
+      "value": "Kedolik AMM"
     },
     {
       "trait_type": "Category",
-      "value": "KedoLX LP WSOL-KEDOL"
+      "value": "KedoX LP Tokens"
     }
   ],
   "properties": {
@@ -27,25 +25,6 @@
         "type": "image/png"
       }
     ],
-},
-{
-  "name": "KedoLX LP SOL-USDC",
-  "symbol": "KDLX",
-  "description": "KedolikSwap LP token for the SOL-USDC pool.",
-  "lp token address": "4af7GRWYW4PezainFKmQWcwrPZxE1WtN5eHKecL5o8ky",
-  "decimals": 9,
-  "logoURI": "https://raw.githubusercontent.com/KedolikSwap/metadata/refs/heads/main/LP-Tokens.png",
-  "external_url": "https://kedolikswap.com",
-  "tags": ["lp-token"]
-},
-{
-  "name": "KedoLX LP USDC-USDT",
-  "symbol": "KDLX",
-  "description": "KedolikSwap LP token for the USDC-USDT pool.",
-  "lp token address": "6LPmEY5n3dEUr18pc5HVB8HduCQNtVUipCVEuYt9yHHj",
-  "decimals": 9,
-  "logoURI": "https://raw.githubusercontent.com/KedolikSwap/metadata/refs/heads/main/LP-Tokens.png",
-  "external_url": "https://kedolikswap.com",
-  "tags": ["lp-token"]
-},
-
+    "category": "lp-token"
+  }
+}
