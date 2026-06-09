@@ -1,13 +1,19 @@
 {
-  "name": "KedoX LP",
+  "version": "1.0.0",
+  "lastUpdated": "2026-09-06T00:00:00.000Z",
+  "lp-tokens": [
+
+{
+  "name": "KedoX LP WSOL-KEDOL",
   "symbol": "KDLX",
-  "description": "Liquidity Provider (LP) token for Kedolik AMM pools, representing a user’s share of pool liquidity and enabling the accrual of trading fee rewards.",
+  "mint": "FNkyNA5pc3dawQsQKw5puyKPgKHB8en4ABcuoyo5ghoF",
+  "description": "KedolikSwap LP token for the WSOL-KEDOL pool.",
   "image": "https://raw.githubusercontent.com/KedolikSwap/metadata/refs/heads/main/LP-Tokens.png",
   "external_url": "https://kedolikswap.com",
   "attributes": [
     {
       "trait_type": "AMM",
-      "value": "KedoX LP"
+      "value": "KedoX LP WSOL-KEDOL"
     },
     {
       "trait_type": "Protocol",
@@ -15,7 +21,7 @@
     },
     {
       "trait_type": "Category",
-      "value": "KedoX LP Tokens"
+      "value": "KedoX LP WSOL-KEDOL"
     }
   ],
   "properties": {
@@ -27,4 +33,161 @@
     ],
     "category": "lp-token"
   }
+},
+{
+  "name": "KedoX LP SOL-USDC",
+  "symbol": "KDLX",
+  "mint": "4af7GRWYW4PezainFKmQWcwrPZxE1WtN5eHKecL5o8ky",
+  "description": "KedolikSwap LP token for the SOL-USDC pool.",
+  "image": "https://raw.githubusercontent.com/KedolikSwap/metadata/refs/heads/main/LP-Tokens.png",
+  "external_url": "https://kedolikswap.com",
+  "attributes": [
+    {
+      "trait_type": "AMM",
+      "value": "KedoX LP SOL-USDC"
+    },
+    {
+      "trait_type": "Protocol",
+      "value": "Kedolik AMM"
+    },
+    {
+      "trait_type": "Category",
+      "value": "KedoX LP SOL-USDC"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/KedolikSwap/metadata/refs/heads/main/LP-Tokens.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "lp-token"
+  }
+},
+{
+  "name": "KedoX LP USDC-USDT",
+  "symbol": "KDLX",
+  "mint": "6LPmEY5n3dEUr18pc5HVB8HduCQNtVUipCVEuYt9yHHj",
+  "description": "KedolikSwap LP token for the USDC-USDT pool.",
+  "image": "https://raw.githubusercontent.com/KedolikSwap/metadata/refs/heads/main/LP-Tokens.png",
+  "external_url": "https://kedolikswap.com",
+  "attributes": [
+    {
+      "trait_type": "AMM",
+      "value": "KedoX LP USDC-USDT"
+    },
+    {
+      "trait_type": "Protocol",
+      "value": "Kedolik AMM"
+    },
+    {
+      "trait_type": "Category",
+      "value": "KedoX LP USDC-USDT"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/KedolikSwap/metadata/refs/heads/main/LP-Tokens.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "lp-token"
+  }
+},
+{
+  "name": "KedoX LP SOL-USDT",
+  "symbol": "KDLX",
+  "mint": "6yHkgyw9cEsaoQ6i4mFSBgr9Z9NqmqmMTiToQztXvP6P",
+  "description": "KedolikSwap LP token for the SOL-USDT pool.",
+  "image": "https://raw.githubusercontent.com/KedolikSwap/metadata/refs/heads/main/LP-Tokens.png",
+  "external_url": "https://kedolikswap.com",
+  "attributes": [
+    {
+      "trait_type": "AMM",
+      "value": "KedoX LP SOL-USDT"
+    },
+    {
+      "trait_type": "Protocol",
+      "value": "Kedolik AMM"
+    },
+    {
+      "trait_type": "Category",
+      "value": "KedoX LP SOL-USDT"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/KedolikSwap/metadata/refs/heads/main/LP-Tokens.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "lp-token"
+  }
+},
+{
+  "name": "KedoX LP USDT-KEDOL",
+  "symbol": "KDLX",
+  "mint": "CtD41zHHHTstMCZ89bsnt3WMkWrx4hfX1QN3uTMumAF9",
+  "description": "KedolikSwap LP token for the USDT-KEDOL pool.",
+  "image": "https://raw.githubusercontent.com/KedolikSwap/metadata/refs/heads/main/LP-Tokens.png",
+  "external_url": "https://kedolikswap.com",
+  "attributes": [
+    {
+      "trait_type": "AMM",
+      "value": "KedoX LP USDT-KEDOL"
+    },
+    {
+      "trait_type": "Protocol",
+      "value": "Kedolik AMM"
+    },
+    {
+      "trait_type": "Category",
+      "value": "KedoX LP USDT-KEDOL"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/KedolikSwap/metadata/refs/heads/main/LP-Tokens.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "lp-token"
+  }
+},
+{
+  "name": "KedoX LP USDC-KEDOL",
+  "symbol": "KDLX",
+  "mint": "9iasc8vstLvbLD5rDFAkvaacDSxEVn4eWnXm6awFyPKH",
+  "description": "KedolikSwap LP token for the USDC-KEDOL pool.",
+  "image": "https://raw.githubusercontent.com/KedolikSwap/metadata/refs/heads/main/LP-Tokens.png",
+  "external_url": "https://kedolikswap.com",
+  "attributes": [
+    {
+      "trait_type": "AMM",
+      "value": "KedoX LP USDC-KEDOL"
+    },
+    {
+      "trait_type": "Protocol",
+      "value": "Kedolik AMM"
+    },
+    {
+      "trait_type": "Category",
+      "value": "KedoX LP USDC-KEDOL"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/KedolikSwap/metadata/refs/heads/main/LP-Tokens.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "lp-token"
+  }
+}
+  ]
 }
