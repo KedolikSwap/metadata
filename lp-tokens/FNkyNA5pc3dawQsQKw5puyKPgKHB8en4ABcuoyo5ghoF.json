@@ -1,0 +1,41 @@
+{
+  "version": "1.0.0",
+  "lp-tokens": [
+{
+  "name": "KedoX LP WSOL-KEDOL",
+  "symbol": "KDLX",
+  "mint": "FNkyNA5pc3dawQsQKw5puyKPgKHB8en4ABcuoyo5ghoF",
+  "decimals": 9,
+  "description": "KedolikSwap LP token for the WSOL-KEDOL pool.",
+  "image": "https://raw.githubusercontent.com/KedolikSwap/metadata/main/LP-Tokens.png",
+  "external_url": "https://kedolikswap.com",
+  "attributes": [
+    {
+      "trait_type": "Pair",
+      "value": "WSOL-KEDOL"
+    },
+    {
+      "trait_type": "AMM",
+      "value": "KedoX LP WSOL-KEDOL"
+    },
+    {
+      "trait_type": "Protocol",
+      "value": "KedolikSwap"
+    },
+    {
+      "trait_type": "Category",
+      "value": "KedoX LP WSOL-KEDOL"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/KedolikSwap/metadata/main/LP-Tokens.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "lp-token"
+  }
+}
+  ]
+}

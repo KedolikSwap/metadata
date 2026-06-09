@@ -1,0 +1,41 @@
+{
+  "version": "1.0.0",
+  "lp-tokens": [
+{
+  "name": "KedoX LP USDC-USDT",
+  "symbol": "KDLX",
+  "mint": "6LPmEY5n3dEUr18pc5HVB8HduCQNtVUipCVEuYt9yHHj",
+  "decimals": 9,
+  "description": "KedolikSwap LP token for the USDC-USDT pool.",
+  "image": "https://raw.githubusercontent.com/KedolikSwap/metadata/main/LP-Tokens.png",
+  "external_url": "https://kedolikswap.com",
+  "attributes": [
+    {
+      "trait_type": "Pair",
+      "value": "USDC-USDT"
+    },
+    {
+      "trait_type": "AMM",
+      "value": "KedoX LP USDC-USDT"
+    },
+    {
+      "trait_type": "Protocol",
+      "value": "KedolikSwap"
+    },
+    {
+      "trait_type": "Category",
+      "value": "KedoX LP USDC-USDT"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/KedolikSwap/metadata/main/LP-Tokens.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "lp-token"
+  }
+}
+  ]
+}

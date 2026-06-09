@@ -1,0 +1,41 @@
+{
+  "version": "1.0.0",
+  "lp-tokens": [
+{
+  "name": "KedoX LP SOL-USDC",
+  "symbol": "KDLX",
+  "mint": "4af7GRWYW4PezainFKmQWcwrPZxE1WtN5eHKecL5o8ky",
+  "decimals": 9,
+  "description": "KedolikSwap LP token for the SOL-USDC pool.",
+  "image": "https://raw.githubusercontent.com/KedolikSwap/metadata/main/LP-Tokens.png",
+  "external_url": "https://kedolikswap.com",
+  "attributes": [
+    {
+      "trait_type": "Pair",
+      "value": "SOL-USDC"
+    },
+    {
+      "trait_type": "AMM",
+      "value": "KedoX LP SOL-USDC"
+    },
+    {
+      "trait_type": "Protocol",
+      "value": "KedolikSwap"
+    },
+    {
+      "trait_type": "Category",
+      "value": "KedoX LP SOL-USDC"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/KedolikSwap/metadata/main/LP-Tokens.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "lp-token"
+  }
+}
+  ]
+}
