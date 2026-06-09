@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "AMM",
-      "value": "KedoX LP"
+      "value": "KedoLX LP WSOL-KEDOL"
     },
     {
       "trait_type": "Protocol",
@@ -17,7 +17,7 @@
     },
     {
       "trait_type": "Category",
-      "value": "KedoX LP"
+      "value": "KedoLX LP WSOL-KEDOL"
     }
   ],
   "properties": {
