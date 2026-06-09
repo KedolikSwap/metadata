@@ -9,7 +9,7 @@
   "tags": ["lp-token"]
 },
 {
-  "name": "KedoLX SOL-USDC",
+  "name": "KedoLX LP SOL-USDC",
   "symbol": "KDLX",
   "description": "KedolikSwap LP token for the SOL-USDC pool.",
   "lp token address": "4af7GRWYW4PezainFKmQWcwrPZxE1WtN5eHKecL5o8ky",
@@ -19,7 +19,7 @@
   "tags": ["lp-token"]
 },
 {
-  "name": "KedoLX USDC-USDT",
+  "name": "KedoLX LP USDC-USDT",
   "symbol": "KDLX",
   "description": "KedolikSwap LP token for the USDC-USDT pool.",
   "lp token address": "6LPmEY5n3dEUr18pc5HVB8HduCQNtVUipCVEuYt9yHHj",
