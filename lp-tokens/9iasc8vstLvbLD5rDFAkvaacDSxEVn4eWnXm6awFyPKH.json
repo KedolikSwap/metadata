@@ -9,22 +9,18 @@
   "description": "KedolikSwap LP token for the USDC-KEDOL pool.",
   "image": "https://raw.githubusercontent.com/KedolikSwap/metadata/main/LP-Tokens.png",
   "external_url": "https://kedolikswap.com",
-  "attributes": [
+ "attributes": [
     {
       "trait_type": "Pair",
       "value": "USDC-KEDOL"
-    },
-    {
-      "trait_type": "AMM",
-      "value": "KedoX LP USDC-KEDOL"
     },
     {
       "trait_type": "Protocol",
       "value": "KedolikSwap"
     },
     {
-      "trait_type": "Category",
-      "value": "KedoX LP USDC-KEDOL"
+      "trait_type": "Type",
+      "value": "Liquidity Pool Token"
     }
   ],
   "properties": {
