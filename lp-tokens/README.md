@@ -58,7 +58,7 @@ metadata/
 │   ├── 9iasc8vstLvbLD5rDFAkvaacDSxEVn4eWnXm6awFyPKH.json            #USDC-KEDOL
 │   ├── CtD41zHHHTstMCZ89bsnt3WMkWrx4hfX1QN3uTMumAF9.json            #USDT-KEDOL
 │   └── FNkyNA5pc3dawQsQKw5puyKPgKHB8en4ABcuoyo5ghoF.json            #WSOL-KEDOL
-├── kedol.json
+│
 └── README.md
 
 ```
