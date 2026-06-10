@@ -15,16 +15,12 @@
       "value": "SOL-USDC"
     },
     {
-      "trait_type": "AMM",
-      "value": "KedoX LP SOL-USDC"
-    },
-    {
       "trait_type": "Protocol",
       "value": "KedolikSwap"
     },
     {
-      "trait_type": "Category",
-      "value": "KedoX LP SOL-USDC"
+      "trait_type": "Type",
+      "value": "Liquidity Pool Token"
     }
   ],
   "properties": {
