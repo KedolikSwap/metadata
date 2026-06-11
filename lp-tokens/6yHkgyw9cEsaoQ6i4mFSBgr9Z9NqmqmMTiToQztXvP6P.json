@@ -1,27 +1,13 @@
 {
-  "version": "1.0.0",
-  "lp-tokens": [
-{
   "name": "KedoX LP SOL-USDT",
   "symbol": "KDLX",
-  "mint": "6yHkgyw9cEsaoQ6i4mFSBgr9Z9NqmqmMTiToQztXvP6P",
-  "decimals": 9,
   "description": "KedolikSwap LP token for the SOL-USDT pool.",
   "image": "https://raw.githubusercontent.com/KedolikSwap/metadata/main/LP-Tokens.png",
   "external_url": "https://kedolikswap.com",
   "attributes": [
-    {
-      "trait_type": "Pair",
-      "value": "SOL-USDT"
-    },
-    {
-      "trait_type": "Protocol",
-      "value": "KedolikSwap"
-    },
-    {
-      "trait_type": "Type",
-      "value": "Liquidity Pool Token"
-    }
+    { "trait_type": "Pair", "value": "SOL-USDT" },
+    { "trait_type": "Protocol", "value": "KedolikSwap" },
+    { "trait_type": "Type", "value": "Liquidity Pool Token" }
   ],
   "properties": {
     "files": [
@@ -30,8 +16,6 @@
         "type": "image/png"
       }
     ],
-    "category": "lp-token"
+    "category": "image"
   }
-}
-  ]
 }
